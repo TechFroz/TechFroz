@@ -1,1 +1,1 @@
-
+mape = \frac{100}{n} \sum_{i=1}^n \frac{|f_i - a_i|}{a_i}
